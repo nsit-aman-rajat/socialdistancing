@@ -9,4 +9,4 @@ Here's the link to Aravind's article: https://www.analyticsvidhya.com/blog/2020/
 Drive link to the frames generated from the sample video: https://drive.google.com/drive/folders/1wArRGlaRxO0t-xSfUg70WfAPp-eKbLt7?usp=sharing 
 
 Red:Voilations  Blue:Normal 
-![alt text](https://github.com/aman-choudhary/socialdistancing/blob/master/result.png)
+![alt text](https://github.com/nsit-aman-rajat/socialdistancing/blob/master/result.png)
